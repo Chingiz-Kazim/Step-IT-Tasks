@@ -1,14 +1,21 @@
-import { Form } from "react-router-dom";
+import { Form, useLoaderData } from "react-router-dom";
+import { getContact } from "../contacts";
+
+export async function loader({ params }) {
+  const contact = await getContact(params.contactId);
+  return { contact };
+}
 
 export default function Contact() {
-  const contact = {
-    firstName: "Your",
-    lastName: "Name",
-    avatar: "https://gameranx.com/wp-content/uploads/2023/08/mortal-kombat-reptile-1024x576.jpg",
-    twitter: "your_handle",
-    notes: "Some notes",
-    isFavorite: true,
-  };
+  const { contact } = useLoaderData();
+  // const contact = {
+  //   first: "Your",
+  //   last: "Name",
+  //   avatar: "https://gameranx.com/wp-content/uploads/2023/08/mortal-kombat-reptile-1024x576.jpg",
+  //   twitter: "your_handle",
+  //   notes: "Some notes",
+  //   favorite: true,
+  // };
 
   return (
     <div id="contact">
@@ -21,9 +28,9 @@ export default function Contact() {
 
       <div>
         <h1>
-          {contact.firstName || contact.lastName ? (
+          {contact.first || contact.last ? (
             <>
-              {contact.firstName} {contact.lastName}
+              {contact.first} {contact.last}
             </>
           ) : (
             <i>No Name</i>
@@ -71,19 +78,19 @@ export default function Contact() {
 
 function Favorite({ contact }) {
   // yes, this is a `let` for later
-  let isFavorite = contact.isFavorite;
+  let favorite = contact.favorite;
   return (
     <Form method="post">
       <button
         name="favorite"
-        value={isFavorite ? "false" : "true"}
+        value={favorite ? "false" : "true"}
         aria-label={
-            isFavorite
+          favorite
             ? "Remove from favorites"
             : "Add to favorites"
         }
       >
-        {isFavorite ? "★" : "☆"}
+        {favorite ? "★" : "☆"}
       </button>
     </Form>
   );
