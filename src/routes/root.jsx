@@ -57,7 +57,7 @@ function Root() {
                         </ul>
                     ) : (
                         <p>
-                            <i>No contacts</i>
+                            <i>No contacts in your list</i>
                         </p>
                     )}
                 </nav>
