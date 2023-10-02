@@ -153,6 +153,19 @@ form[action$="destroy"] button {
   padding-bottom: 1rem;
   border-bottom: 1px solid #e3e3e3;
 }
+.show{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e3e3e3;
+}
+.show>div form{
+  position: relative;
+}
 
 #sidebar>div form {
   position: relative;

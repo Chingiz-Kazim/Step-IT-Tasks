@@ -21,14 +21,7 @@ export async function action({ request, params }) {
 
 export default function Task() {
   const { task } = useLoaderData();
-  // const contact = {
-  //   first: "Your",
-  //   last: "Name",
-  //   avatar: "https://gameranx.com/wp-content/uploads/2023/08/mortal-kombat-reptile-1024x576.jpg",
-  //   twitter: "your_handle",
-  //   notes: "Some notes",
-  //   favorite: true,
-  // };
+
 
   return (
     <div id="task">
@@ -93,4 +86,4 @@ function Favorite({ task }) {
       </button>
       </fetcher.Form>
   );
-}
+} 
