@@ -47,7 +47,7 @@ function Root() {
         return (
             <>
                 <div id="sidebar">
-                    <h1>React Router Tasks</h1>
+                    <h1>ToDo List App</h1>
                     <div>
                         <Form id="search-form" role="search">
                             <input
@@ -82,11 +82,11 @@ function Root() {
                     </div>
                     <Form method="post">
                         <div className="show">
-                            <button type="button" onClick={() => handleFilterChange("all")}
+                            <button id="btnAll" type="button" onClick={() => handleFilterChange("all")}
             className={currentFilter === "all" ? "active" : ""}>All</button>
-                            <button type="button" onClick={() => handleFilterChange("favorite")}
+                            <button id="btnDone" type="button" onClick={() => handleFilterChange("favorite")}
             className={currentFilter === "favorite" ? "active" : ""}>Done</button>
-                            <button type="button" onClick={() => handleFilterChange("reminded")}
+                            <button id="btnRemined" type="button" onClick={() => handleFilterChange("reminded")}
             className={currentFilter === "reminded" ? "active" : ""}>Reminded</button>
                         </div>
                     </Form>
