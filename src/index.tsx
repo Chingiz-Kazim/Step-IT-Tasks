@@ -1,13 +1,17 @@
-import React,{ StrictMode } from "react";
-import {createRoot} from 'react-dom/client';
+import React, { StrictMode } from "react";
+import { createRoot } from 'react-dom/client';
 import App from "./App";
+import store from './Redux/store';
+import { Provider } from "react-redux";
 
 const rootContainer = document.querySelector('#root');
 
-if(rootContainer === null) throw new Error('There is no container');
+if (rootContainer === null) throw new Error('There is no container');
 
 createRoot(rootContainer).render(
     <StrictMode>
-        <App></App>
+        <Provider store={store}>
+            <App></App>
+        </Provider>
     </StrictMode>
 )
