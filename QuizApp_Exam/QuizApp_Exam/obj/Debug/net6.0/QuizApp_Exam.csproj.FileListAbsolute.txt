@@ -1,0 +1,44 @@
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.exe
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.deps.json
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.runtimeconfig.json
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.dll
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.pdb
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.csproj.AssemblyReference.cache
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.AssemblyInfoInputs.cache
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.AssemblyInfo.cs
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.csproj.CoreCompileInputs.cache
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.dll
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\refint\QuizApp_Exam.dll
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.pdb
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.genruntimeconfig.cache
+C:\Users\farid\source\repos\QuizApp_Exam\QuizApp_Exam\obj\Debug\net6.0\ref\QuizApp_Exam.dll
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.exe
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.deps.json
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.runtimeconfig.json
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.dll
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.pdb
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.csproj.AssemblyReference.cache
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.AssemblyInfoInputs.cache
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.AssemblyInfo.cs
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.csproj.CoreCompileInputs.cache
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.dll
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\refint\QuizApp_Exam.dll
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.pdb
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.genruntimeconfig.cache
+C:\Users\dibi_yq66\source\repos\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\ref\QuizApp_Exam.dll
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.exe
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.deps.json
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.runtimeconfig.json
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.dll
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\bin\Debug\net6.0\QuizApp_Exam.pdb
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.AssemblyInfoInputs.cache
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.AssemblyInfo.cs
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.dll
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\refint\QuizApp_Exam.dll
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.pdb
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\QuizApp_Exam.genruntimeconfig.cache
+C:\Users\Chingiz Kazimov\Desktop\QuizApp_Exam24.09\QuizApp_Exam\obj\Debug\net6.0\ref\QuizApp_Exam.dll
