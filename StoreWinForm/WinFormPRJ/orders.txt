@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Orders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><orders><Order><Quality>0</Quality><Price>0</Price><clientName>Ugur</clientName><CountProduct>3</CountProduct><NameProduct>Cola</NameProduct><dateTime>2022-11-24T21:14:46</dateTime></Order></orders></Orders>
